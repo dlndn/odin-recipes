@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px;
+}
+
+body {
+    background-color: lavender;
+}
+
+div {
+    padding: 20px;
+    margin: 20px;
+    background-color: darkseagreen;
+    box-shadow: 2px 2px 4px;
+    width: 20%;
+}
+
+div img {
+    height: auto;
+    width: 100%;
+    box-shadow: 2px 2px 4px;
+}
+
+div a {
+    display: flex;
+    width: 100%;
+}
